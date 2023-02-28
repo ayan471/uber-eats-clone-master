@@ -13,7 +13,7 @@ import SearchBar from "../components/home/SearchBar";
 const YELP_API_KEY =
   "gnHQqDe7FQkGZ6zrcGeyXRH-bqUmJ9gdCboDl5zmNEY3dIJ03eJbiPgk8YQebhCROxPNFvEdQEEyGALb7NusorjZAq3bRktEKsd8Vl64Ahmdh4j-q6SPaeUx8q38Y3Yx";
 
-export default function Home() {
+export default function Home({ navigation }) {
   const [resturantData, setResturantData] = useState(localRestaurants);
   const [city, setCity] = useState("San Francisco");
   const [activeTab, setActiveTab] = useState("Delivery");
@@ -49,7 +49,7 @@ export default function Home() {
       </View>
       <ScrollView showsVerticalScrollIndicator={false}>
         <Categories />
-        <ResturantItems resturantData={resturantData} />
+        <ResturantItems resturantData={resturantData} navigation={navigation} />
       </ScrollView>
       <Divider width={1} />
       <BottomTabs />
