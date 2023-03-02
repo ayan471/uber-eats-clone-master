@@ -1,5 +1,11 @@
 # Uber-Eats Clone
 
+![Screenshot_20230302_214354](https://user-images.githubusercontent.com/120088765/222486727-fe36fef2-69b6-4e0b-bb62-7cfd518f8d1b.png)
+![Screenshot_20230302_214408](https://user-images.githubusercontent.com/120088765/222486760-692f1a00-fe80-466c-b6a3-9946e9106923.png)
+![Screenshot_20230301_113524](https://user-images.githubusercontent.com/120088765/222484560-76dfd6de-2310-4b8d-932b-dd13daaa77f3.png)
+![Screenshot_20230302_214446](https://user-images.githubusercontent.com/120088765/222486972-3c6d6f2e-da92-45d6-b52f-04841de08a01.png)
+![Screenshot_20230302_214509](https://user-images.githubusercontent.com/120088765/222486788-bf20f428-12b5-4e44-ad24-d0ded5d83528.png)
+
 <p>
   <!-- iOS -->
   <a href="https://itunes.apple.com/app/apple-store/id982107779">
